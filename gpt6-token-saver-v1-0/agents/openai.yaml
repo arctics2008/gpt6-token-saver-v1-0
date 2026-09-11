@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPT6省token工具v1.0"
+  short_description: "Astra 负责规划与验收，Sol 负责仓库读取、实现及验证"
+  default_prompt: "使用 $gpt6-token-saver-v1-0，按已配置的 Astra 与 Sol 推理强度处理以下任务。"
